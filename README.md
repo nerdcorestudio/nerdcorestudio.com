@@ -1,0 +1,2 @@
+# nerdcorestudio.com
+nerdcore website
